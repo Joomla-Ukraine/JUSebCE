@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" version="3.8" method="upgrade">
+    <name>JUSebCE - Code Editor for SEBLOD</name>
+    <author>Denys Nosov (Joomla! Ukraine)</author>
+    <authorEmail>denys@joomla-ua.org</authorEmail>
+    <authorUrl>https://joomla-ua.org</authorUrl>
+    <copyright>Copyright (C) 2019 Joomla! Ukraine. All Rights Reserved.</copyright>
+    <license>GNU General Public License version 2 or later.</license>
+    <creationDate>13.11.2019</creationDate>
+    <description>Add code editor for SEBLOD 3.x</description>
+    <version>1.0.0</version>
+    <files>
+        <filename plugin="jusebce">jusebce.php</filename>
+    </files>
+    <config>
+        <fields name="params">
+
+        </fields>
+    </config>
+</extension>
